@@ -66,9 +66,3 @@ Some materials may be provisional, fragmentary, or exploratory.
 ## Author
 
 **Harley Caham Combest**
-
-## License / Rights
-
-All original writing, worldbuilding, characters, names, images, maps, and setting materials associated with *Priimydica* are the intellectual property of the author unless otherwise stated.
-
-No part of this project may be reproduced, adapted, or distributed without permission.
