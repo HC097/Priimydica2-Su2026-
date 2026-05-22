@@ -26,12 +26,6 @@ This volume explores:
 
 After the War Against Death, Priimydia enters its modern age: dynasties inherit mythic wounds, empires fracture into nations, and ancient spiritual questions reemerge through politics, family, bureaucracy, technology, and the first shadows of artificial intelligence.
 
-## Project Status
-
-**Current phase:** Concretization
-
-Volume 2 is presently being developed from broad historical and thematic outlines into a fuller narrative structure, including books, chapters, character arcs, historical transitions, political developments, and philosophical through-lines.
-
 ## Relationship to Volume 1
 
 Volume 1 establishes the mythic and ancient foundations of Priimydica:
@@ -78,10 +72,3 @@ Some materials may be provisional, fragmentary, or exploratory.
 All original writing, worldbuilding, characters, names, images, maps, and setting materials associated with *Priimydica* are the intellectual property of the author unless otherwise stated.
 
 No part of this project may be reproduced, adapted, or distributed without permission.
-
-## Related Work
-
-- *Priimydica, Volume 1*
-- *Priimydica Portraits, Volume 1*
-- *Priimydica Portraits, Volume 2*
-- *Priimydica Portraits, Volume 3*
